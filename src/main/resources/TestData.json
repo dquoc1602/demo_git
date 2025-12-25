@@ -1,8 +1,0 @@
-{
-  "GURU": {
-    "base_url": "https://demo.guru99.com/"
-  },
-  "Applitools": {
-    "base_url": "https://demo.applitools.com/"
-  }
-}
